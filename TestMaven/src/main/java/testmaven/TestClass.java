@@ -3,7 +3,7 @@ package testmaven;
 public class TestClass {
 	
 	public String fun() {
-		return "hello";
+		return "hello chbfdg";
 	}
  public static void main(String args [])
  {
